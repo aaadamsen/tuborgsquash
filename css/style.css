@@ -7,7 +7,7 @@
 
 body {
     background:rgb(254, 247, 236);
-    background-image: url("img/splash.png");
+    background-image: url("/img/splash.png");
     background-repeat: no-repeat;
     background-attachment:fixed;
 
@@ -492,7 +492,7 @@ margin-bottom: 150px
 }
 
 .konkurrence-grid p {
-    font-size: 19px;
+    font-size: 18px;
 }
  
 .konkurrence-grid img {
